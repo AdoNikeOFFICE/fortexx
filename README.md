@@ -19,4 +19,4 @@
 
 * NPM Modules
 
-discord.js, wokCommands
+discord.js, wokCommand
