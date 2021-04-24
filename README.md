@@ -4,7 +4,7 @@
 ## 📖 About bot
 
 * It's Discord Bot for ForteXxGaming FiveM Community. (https://discord.gg/NJxqk8e5Tj)
-* This bot have only 1 function now, BlackMarket chat for FiveM.
+* This bot have only 2 functions now, BlackMarket chat for FiveM & Clear command for me, when I test something.
 * I'll add more functionality soon..
 
 ## 🛠 Used Programming Languages
