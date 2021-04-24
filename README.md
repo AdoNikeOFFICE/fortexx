@@ -14,7 +14,7 @@
 ## 👨‍💻 Tools Used
 
 * Tool
-* 
+
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellij-idea)
 
 * NPM Modules
