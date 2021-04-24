@@ -1,10 +1,10 @@
 # 🤖 ForteXxGaming Discord Bot
-> Hello, this is my first public repository. I have maybe 11 private repositories.. I've decided, that I'll post my codes public, so I can present myself with them. ("code portfolio")
+> Hello, this is my first repository. I have maybe 11 private repositories.. I've decided, that I'll show you my job, so I can present myself.
 
 ## 📖 About bot
 
 * It's Discord Bot for ForteXxGaming FiveM Community. (https://discord.gg/NJxqk8e5Tj)
-* This bot have only 2 functions now, BlackMarket chat for FiveM & Clear command for me, when I test something.
+* This bot have only 2 functions now, BlackMarket chat for FiveM & Clear command for me, when I'll test something.
 * I'll add more functionality soon..
 
 ## 🛠 Used Programming Languages
