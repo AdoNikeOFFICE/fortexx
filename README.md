@@ -1,5 +1,5 @@
 # 🤖 ForteXxGaming Discord Bot
-> Hello, this is my first repository. I have maybe 11 private repositories.. I've decided, that I'll show you my job, so I can present myself.
+> Hello, this is my first repository. I have maybe 11 private repositories.. I've decided, that I'll show you my codes, so I can present myself with "code portfolio".
 
 ## 📖 About bot
 
